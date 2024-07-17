@@ -20,10 +20,10 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Inovar Urbano  Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+IA para catalogar melhoras marca de roupas masculinas e femininas 
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
